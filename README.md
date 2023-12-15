@@ -1,2 +1,6 @@
 # Web2
-2021804106-Hilmi Zainal Arifin-SI 5B Shift-Sistem Informasi-UNIPI
+NPM : 2021804106
+Nama : Hilmi Zainal Arifin
+Kelas : SI 5B Shift
+Jurusan : Sistem Informasi
+UNIPI
